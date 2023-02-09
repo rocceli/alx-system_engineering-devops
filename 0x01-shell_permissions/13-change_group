@@ -1,2 +1,2 @@
 #!/bin/bash
-chgroup owner  hello
+chgroup school  hello
